@@ -52,3 +52,24 @@ You can download it from here [https://drive.google.com/drive/folders/1lxhAVv3e2
 
 4. Save Swapped Image:
    After the faces are swapped, click "Save Swapped Image" to save the resulting image to your local system.
+
+**Screenshots**
+![screenshot1](https://github.com/user-attachments/assets/452041ab-3889-4417-80d4-6cceec1416f2)
+
+![screenshot2](https://github.com/user-attachments/assets/42f09132-af73-40f8-9e13-035fa445338a)
+
+![screenshot3](https://github.com/user-attachments/assets/feabd25d-cade-4d71-a843-543e2826c3a8)
+
+**Known Issues**
+
+1. Face Detection Limitations: The application might not work well with images where faces are obscured, rotated, or have poor lighting.
+2. Multiple Faces: The current implementation swaps only the first face detected in each image.
+
+**Contributions**
+
+Contributions are welcome! Feel free to submit issues or pull requests to improve the app.
+
+**License**
+
+This project is licensed under the MIT License.
+
